@@ -9,5 +9,50 @@
 },
 "careerobjectives":{
   "info":"I want to be an IAS officer"
+},
+"education":[
+{
+  "degree":"Btech",
+  "institute":"SRKR",
+  "year":["2016"]
+},
+{
+  "degree":"intermediate",
+  "institute":"NRI",
+  "year":["2014"]
+},
+{
+  "degree":"ssc",
+  "institute":"DAV",
+  "year":["2013"]
 }
+],
+"technicalqualifications":[
+  {
+    "tittle":"languages",
+    "data":"c,c++,java,python"
+  },
+  {
+    "tittle":"data base",
+    "data":"oracle,sql"
+  },
+  {
+    "tittle":"operating system",
+    "data":"windows"
+  }
+],
+"achievements":[
+  {
+  "competition":"science expo",
+  "place":"2nd"
+},
+{
+  "competition":"ppt presentation",
+  "place":"1st"
+},
+{
+  "competition":"singing",
+  "place":"1st"
+}
+]
 }
